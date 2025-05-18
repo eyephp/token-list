@@ -1,0 +1,21 @@
+{
+  "name": "RedFox",
+  "symbol": "RFX",
+  "description": "RedFox is a sleek and modern Solana-based token designed to power the digital future with speed, style, and a touch of wild innovation.",
+  "image": "https://i.postimg.cc/Px6t04yw/6c8711c8-80ee-459b-97d5-25ea7cfc678d.png",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://yourwebsite.com",
+    "twitter": "https://twitter.com/yourhandle",
+    "telegram": "https://t.me/yourchannel",
+    "coingeckoId": "",
+    "serumV3Usdt": "",
+    "serumV3Usdc": "",
+    "explorer": "https://solscan.io/token/5Y4BtzQmScp7LjdBxgRWxB9juiwbnANBLJGUU3mx9r3n"
+  },
+  "tags": [
+    "utility-token",
+    "meme",
+    "community"
+  ]
+}
