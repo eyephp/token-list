@@ -4,6 +4,10 @@
   "symbol": "RFX",
   "name": "RedFox",
   "decimals": 9,
-  "logoURI": "https://tired-chocolate-salmon.myfilebase.com/ipfs/QmQXHT1XbNcP2x7dfyjaC9EJGq9gjzaTdjKwhPUaDypBND",
-  "tags": ["utility-token"]
+  "logoURI": "https://raw.githubusercontent.com/<your-github-username>/token-list/main/assets/mainnet/5LscayxzE3WPzRQHiksLCNddoGDxvrE3Z2SJ9Rv4Ux7Q/logo.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://example.com",
+    "description": "RedFox (RFX) is a modern, community-driven Solana-based token created to combine speed, style, and smart innovation. Inspired by the clever nature of the red fox, this token aims to support digital projects with a playful yet powerful touch."
+  }
 }
