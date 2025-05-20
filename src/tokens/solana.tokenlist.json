@@ -1,18 +1,9 @@
 {
   "chainId": 101,
-  "address": "5Y4BtzQmScp7LjdBxgRWxB9juiwbnANBLJGUU3mx9r3n",
+  "address": "5LscayxzE3WPzRQHiksLCNddoGDxvrE3Z2SJ9Rv4Ux7Q",
   "symbol": "RFX",
   "name": "RedFox",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/YourUsername/token-list/main/assets/mainnet/5Y4BtzQmScp7LjdBxgRWxB9juiwbnANBLJGUU3mx9r3n/logo.png",
-  "tags": ["utility-token", "community"],
-  "extensions": {
-    "website": "https://yourwebsite.com",
-    "twitter": "https://twitter.com/yourhandle",
-    "telegram": "https://t.me/yourchannel",
-    "coingeckoId": "",
-    "serumV3Usdt": "",
-    "serumV3Usdc": "",
-    "explorer": "https://solscan.io/token/5Y4BtzQmScp7LjdBxgRWxB9juiwbnANBLJGUU3mx9r3n"
-  }
+  "logoURI": "https://tired-chocolate-salmon.myfilebase.com/ipfs/QmQXHT1XbNcP2x7dfyjaC9EJGq9gjzaTdjKwhPUaDypBND",
+  "tags": ["utility-token"]
 }
